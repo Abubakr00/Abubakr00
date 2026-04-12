@@ -14,12 +14,12 @@
 ## 🧠 About Me
 
 ```yaml
-name:       Abu Bakr
-degree:     B.Sc. in Artificial Intelligence
-focus:      Machine Learning · Deep Learning · Computer Vision
-passion:    turning raw data into models that see, decide, and act
-currently:  exploring model deployment, MLOps, and generative AI
-motto:      "Build. Break. Learn. Repeat."
+Name:       Abu Bakr
+Degree:     B.Sc. in Artificial Intelligence
+Focus:      Machine Learning · Deep Learning · Computer Vision
+Passion:    Turning raw data into models that see, decide, and act
+Currently:  Exploring model deployment, MLOps, and generative AI
+Motto:      "Build. Break. Learn. Repeat."
 ```
 
 🎓 I'm an **AI graduate** passionate about building intelligent systems that perceive and reason about the world.
