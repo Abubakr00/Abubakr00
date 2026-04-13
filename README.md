@@ -137,26 +137,6 @@ Full 3D drone model with separate parts and complete assembly, designed in PTC C
 </tr>
 </table>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abubakr00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakr00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubakr00&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abubakr00&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
