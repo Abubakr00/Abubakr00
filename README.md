@@ -22,7 +22,7 @@ Currently:  Exploring model deployment, MLOps, and generative AI
 Motto:      "Build. Break. Learn. Repeat."
 ```
 
-🎓 I'm an **AI graduate** passionate about building intelligent systems that perceive and reason about the world.
+🎓 I'm an **AI student** passionate about building intelligent systems that perceive and reason about the world.
 🔬 My interests span **computer vision**, **neural networks**, **robotics**, **NLP**, and **reinforcement learning**.
 🛠️ I love prototyping end-to-end pipelines — from raw data to trained models to real-world demos.
 📚 Forever a student — every project teaches me something I didn't know yesterday.
