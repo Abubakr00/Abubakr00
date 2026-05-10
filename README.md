@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abubakr00&label=Profile%20views&color=6c63ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Abubakr00?label=Followers&style=for-the-badge&color=6c63ff" alt="followers" />
 
 </div>
 
